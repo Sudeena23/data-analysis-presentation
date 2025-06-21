@@ -1,4 +1,4 @@
-# data-analysis-presentation
+
 # Data Analysis Presentation
 
 A Jupyter Notebook-based data analysis project focused on exploring and visualizing Nepali datasets, presented in `nepsedata.ipynb`.
